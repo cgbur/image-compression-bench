@@ -1,6 +1,6 @@
 # Image Compression Benchmark
 
-<!-- TODO: [Blog post](https://cgbur.com/posts/TODO) -->
+[Blog post](https://cgbur.com/posts/image-compression/)
 
 Benchmarks AVIF, JPEG XL, WebP, and JPEG across quality levels and resolutions. Measures perceptual quality using [SSIMULACRA 2](https://github.com/cloudinary/ssimulacra2) to find the Pareto frontier of file size vs visual quality.
 
